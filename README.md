@@ -34,5 +34,4 @@ To run the application:
 2. Execute the `App` class.
 3. Follow the on-screen menu options to interact with the banking system.
 
-### Example Interaction
-Once the application is running, you will see a menu like this:
+
